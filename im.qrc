@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>check.png</file>
+        <file>corix.png</file>
+        <file>se deconn.png</file>
+    </qresource>
+</RCC>
